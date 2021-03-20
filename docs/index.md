@@ -1,3 +1,3 @@
-Welcome to Non-GUI Games
+WELCOME
 =======================
 
