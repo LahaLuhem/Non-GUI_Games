@@ -1,6 +1,7 @@
-theme: jekyll-theme-minimal
-
 title: Welcome to Non-GUI Games
 description: You can find some of the games I made, that use ASCII characters to display any graphical elements
 
 show_downloads: true
+google_analytics: 
+
+theme: jekyll-theme-minimal
