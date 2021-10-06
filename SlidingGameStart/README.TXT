@@ -1,0 +1,3 @@
+PROJECT TITLE: Sliding Game
+AUTHORS: Laha Luhem
+USER INSTRUCTIONS: Can use the Configuration <interface> and Solver to define, implement and solve more problems (in SlidingGame for example)...
